@@ -6,6 +6,6 @@ function buscarNombre(arreglo, nombre) {
         : `${nombre} no está presente en el arreglo.`;
 }
 
-const nombres = ["Juan", "Pedro", "Maria", "Ana"];
+const nombres = ["Alexis", "Julio", "Pedro", "Antonio"];
 const nombreBuscado = "Pedro";
 console.log(buscarNombre(nombres, nombreBuscado));
